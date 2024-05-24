@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rcowcka
 - 👀 I’m interested in tech in general.
-- 🌱 I’m currently learning electronics more likely Arduiono, ESP, etc.
+- 🌱 I’m currently learning electronics more likely Arduino, ESP, etc.
 - 📫 How to reach me... here!
 
 <!---
